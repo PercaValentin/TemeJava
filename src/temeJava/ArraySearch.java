@@ -11,9 +11,9 @@ public class ArraySearch {
 	public static void main(String[] args) {
 		int[] numere = { 1, 5, 6 };
 
-        int SearchItem = 5;
+		int SearchItem = 7;
 
-        System.out.println("Indexul in array : " + Arrays.binarySearch(numere, SearchItem));
+		System.out.println("Indexul in array : " + Arrays.binarySearch(numere, SearchItem));
 
 	}
 
